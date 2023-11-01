@@ -1,7 +1,7 @@
 # MINECRAFT MIDI KEYBOARD PLAYER
 This application allows you to play music (using a MIDI keyboard), inside of minecraft, using "noteblocks".
 If you can't run the "main.py" file, try running: ```pip install -r requirements.txt``` from the directory where this repo is located.
-There's a showcase on my [YouTube](https://youtube.com/), too! \^_^
+There's a showcase on my [YouTube](https://youtu.be/P2iAdEOvmO8), too! \^_^
 
 # IN-GAME SETUP
 > There is a specific setup to allow this to work,
